@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="118" viewBox="0 0 118 118">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h118v118H0z"/>
+        <g fill="#C1E5A9" fill-rule="nonzero" opacity=".56">
+            <path d="M108.26 55.06c1 11.44-.58 28.27-7.89 39.43-13.12 20-34.71 25.74-57.83 19.45C19.42 107.65 4.28 87.92 3.12 64 1.96 40.08 14.89 19.93 37.29 11.43c37.91-14.43 68 8.79 70.97 43.63z" opacity=".68"/>
+            <path d="M110.6 49.6c1 11.44-.58 28.27-7.89 39.43-13.12 20-34.71 25.74-57.83 19.45-23.12-6.29-38.26-26-39.43-49.94C4.28 34.6 17.24 14.47 39.63 6c37.91-14.43 68 8.76 70.97 43.6z"/>
+        </g>
+        <path fill="#C1E5A9" fill-rule="nonzero" stroke="#C1E5A9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.75 45.68h107.63v33.75H5.75z"/>
+        <path fill="#FFF" fill-rule="nonzero" stroke="#383838" stroke-linecap="round" stroke-linejoin="round" d="M9.25 48.54h100.34v27.73H9.25z"/>
+        <path stroke="#383838" stroke-linecap="round" stroke-linejoin="round" d="M31.86 57.18v11.46M26.13 62.91h11.46M27.81 66.96l8.1-8.1M35.91 66.96l-8.1-8.1M50.29 57.18v11.46M44.57 62.91h11.45M46.24 66.96l8.11-8.1M54.35 66.96l-8.11-8.1M68.73 57.18v11.46M63 62.91h11.46M64.68 66.96l8.1-8.1M72.78 66.96l-8.1-8.1M87.17 57.18v11.46M81.44 62.91H92.9M83.12 66.96l8.1-8.1M91.22 66.96l-8.1-8.1"/>
+        <path fill="#C1E5A9" fill-rule="nonzero" stroke="#C1E5A9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M98.9 29.77L85.38 52.2a1.58 1.58 0 0 0 1.35 2.39h27a1.58 1.58 0 0 0 1.35-2.39L101.6 29.77a1.58 1.58 0 0 0-2.7 0z" opacity=".3"/>
+        <path fill="#A2D87E" fill-rule="nonzero" d="M99.62 29.65L87.24 51.11a1.58 1.58 0 0 0 1.37 2.36h24.78a1.58 1.58 0 0 0 1.37-2.36l-12.41-21.46a1.58 1.58 0 0 0-2.73 0z"/>
+        <text fill="#383838" font-family="ProximaNova-Regular, Proxima Nova" font-size="19.28">
+            <tspan x="98.7" y="49.58">!</tspan>
+        </text>
+        <path stroke="#404F54" d="M111.88 53.48h1.5a1.58 1.58 0 0 0 1.37-2.36l-12.4-21.47a1.58 1.58 0 0 0-2.73 0l-2.6 4.5M107.52 53.48h2.36M103.78 53.48h1.46M97 34.15l-9.79 17a1.58 1.58 0 0 0 1.37 2.36h15.18"/>
+    </g>
+</svg>

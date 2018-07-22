@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="118" viewBox="0 0 118 118">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h118v118H0z"/>
+        <g fill="#C1E5A9" fill-rule="nonzero" opacity=".56">
+            <path d="M110.26 55.06c1 11.44-.58 28.27-7.89 39.43-13.12 20-34.71 25.74-57.83 19.45C21.42 107.65 6.28 87.92 5.12 64 3.96 40.08 16.89 19.93 39.29 11.43c37.91-14.43 68 8.79 70.97 43.63z" opacity=".68"/>
+            <path d="M112.6 49.6c1 11.44-.58 28.27-7.89 39.43-13.12 20-34.71 25.74-57.83 19.45-23.12-6.29-38.26-26-39.43-49.94C6.28 34.6 19.24 14.47 41.63 6c37.91-14.43 68 8.76 70.97 43.6z"/>
+        </g>
+        <path fill="#C1E5A9" fill-rule="nonzero" stroke="#C1E5A9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M103 32.43a3.13 3.13 0 0 0-3.07-2.57H21.07A3.13 3.13 0 0 0 18 32.43h-.06v58.78l.19-.15a3.12 3.12 0 0 0 2.93 2.07H99.9a3.12 3.12 0 0 0 2.93-2.07l.19.15V32.39l-.02.04z"/>
+        <path fill="#E1EAD0" fill-rule="nonzero" stroke="#383838" stroke-linecap="round" stroke-linejoin="round" d="M20.4 34.07l36.82 27.69-36.82 27.7zM100.58 34.07L63.76 61.76l36.82 27.7z"/>
+        <path fill="#FFF" fill-rule="nonzero" stroke="#383838" stroke-linecap="round" stroke-linejoin="round" d="M97.63 91.27H23.35a3 3 0 0 1-2.95-2.95l37.89-27.71a3.72 3.72 0 0 1 4.39 0l37.89 27.72a3 3 0 0 1-2.94 2.94z"/>
+        <path fill="#FFF" fill-rule="nonzero" stroke="#383838" stroke-linecap="round" stroke-linejoin="round" d="M97.63 31.69H23.35a3 3 0 0 0-2.95 2.95L58.29 68.5a3.72 3.72 0 0 0 4.39 0l37.89-33.86a3 3 0 0 0-2.94-2.95z"/>
+        <circle cx="90.36" cy="37.36" r="16.09" fill="#C1E5A9" fill-rule="nonzero" stroke="#C1E5A9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".4"/>
+        <circle cx="91.42" cy="36.29" r="15.02" fill="#A2D87E" fill-rule="nonzero"/>
+        <text fill="#383838" font-family="ProximaNova-Regular, Proxima Nova" font-size="19.28">
+            <tspan x="86.22" y="42.91">5</tspan>
+        </text>
+        <path stroke="#383838" d="M105.8 31.93a15 15 0 1 1-3.94-6.44M104.24 28.44a15 15 0 0 1 1 1.91"/>
+    </g>
+</svg>
